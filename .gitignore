@@ -1,0 +1,6 @@
+/.vscode
+/restaurantAPI/__pycache__
+/restaurantAPI/settings.py
+/restaurantMenus/__pycache__
+/restaurantMenus/migrations/__pycache__
+
